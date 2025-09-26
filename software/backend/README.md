@@ -2,7 +2,7 @@
 
 A comprehensive Flask-based REST API for the AyuSure herbal quality analysis system with AI-powered analysis, real-time communication, and comprehensive reporting capabilities.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionality
 - **Sensor Data Collection**: ESP32 device integration for herbal sample analysis
@@ -518,4 +518,3 @@ For support and questions:
 
 ---
 
-**Built with ❤️ for herbal quality analysis and Ayurvedic medicine research**
