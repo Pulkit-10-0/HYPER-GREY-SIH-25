@@ -2,7 +2,7 @@
 
 A comprehensive Flask-based REST API for the AyuSure herbal quality analysis system with AI-powered analysis, real-time communication, and comprehensive reporting capabilities.
 
-##  Features
+## Features
 
 ### Core Functionality
 - **Sensor Data Collection**: ESP32 device integration for herbal sample analysis
@@ -191,7 +191,7 @@ backend/
 - **Password**: admin123
 - **Organization**: Default Organization
 
-⚠️ **Important**: Change the default password after first login!
+**Important**: Change the default password after first login!
 
 ### Environment Variables
 
@@ -441,80 +441,3 @@ The system extracts features from sensor readings:
 - Environment variable management
 - Secure default configurations
 - HTTPS enforcement (production)
-
-## Troubleshooting
-
-### Common Issues
-
-**Database Connection Failed**
-```bash
-# Check MongoDB status
-docker-compose logs mongodb
-
-# Verify connection string
-echo $MONGODB_URI
-```
-
-**Redis Connection Failed**
-```bash
-# Check Redis status
-docker-compose logs redis
-
-# Test Redis connectivity
-redis-cli ping
-```
-
-**Celery Tasks Not Processing**
-```bash
-# Check worker status
-celery -A backend.tasks.ai_analysis.celery inspect active
-
-# View worker logs
-docker-compose logs celery_worker
-```
-
-**AI Analysis Failing**
-```bash
-# Check if models are loaded
-ls -la ai-models/
-
-# View analysis logs
-docker-compose logs backend | grep -i "ai\|analysis"
-```
-
-### Performance Optimization
-- Database query optimization with proper indexing
-- Redis caching for frequently accessed data
-- Celery task queues for background processing
-- Connection pooling for database connections
-- Gzip compression for API responses
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow PEP 8 style guidelines
-- Write comprehensive tests for new features
-- Update documentation for API changes
-- Use type hints where appropriate
-- Ensure backward compatibility
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support and questions:
-- Create an issue in the repository
-- Check the troubleshooting section
-- Review the API documentation
-- Contact the development team
-
----
-
