@@ -173,9 +173,9 @@ The backend development followed a systematic approach to create a robust, scala
 - Database backup and recovery procedures
 - Performance optimization and caching strategies
 
-## Project Structure```
-ay
-usure-backend/
+## Project Structure
+```
+ayusure-backend/
 ├── backend/                    # Flask backend application
 │   ├── app.py                 # Application factory and configuration
 │   ├── config.py              # Environment-specific configurations
@@ -467,4 +467,5 @@ Refer to `DEPLOYMENT.md` for comprehensive deployment instructions including:
 2. **Redis Connection Failed**: Verify Redis service and configuration
 3. **Celery Tasks Not Processing**: Check worker status and broker connection
 4. **AI Analysis Failing**: Verify model files and dependencies
+
 
