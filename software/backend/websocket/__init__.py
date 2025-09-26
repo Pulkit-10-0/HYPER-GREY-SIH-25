@@ -1,0 +1,1 @@
+# WebSocket package - Real-time events will be implemented in later tasks

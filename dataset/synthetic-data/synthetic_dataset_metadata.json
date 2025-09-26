@@ -1,0 +1,36 @@
+{
+  "dataset_name": "AyuSure Synthetic Herb Authentication Dataset",
+  "version": "2.0",
+  "generation_date": "2025-09-26T05:40:23.510094",
+  "total_samples": 1000,
+  "sample_id_range": "SYN-0001 to SYN-1000",
+  "herb_categories": [
+    "Tulsi_Premium",
+    "Ashwagandha_Root",
+    "Turmeric_Organic",
+    "Ginger_Fresh",
+    "Honey_Wild"
+  ],
+  "quality_distribution": {
+    "high": 631,
+    "medium": 191,
+    "low": 178
+  },
+  "feature_count": 35,
+  "temporal_range": {
+    "start_date": "2025-03-01",
+    "end_date": "2025-08-28",
+    "duration_days": 180
+  },
+  "generation_parameters": {
+    "temperature_range": "18-38\u00b0C",
+    "humidity_range": "40-90%",
+    "ph_range": "4.8-8.2",
+    "electrode_noise_std": 0.025,
+    "quality_factors": {
+      "high": "0.92-1.08",
+      "medium": "0.75-0.92",
+      "low": "0.60-0.75"
+    }
+  }
+}

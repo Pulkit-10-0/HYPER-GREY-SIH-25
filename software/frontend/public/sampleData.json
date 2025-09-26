@@ -1,0 +1,446 @@
+[
+  {
+    "sampleNo": "AYU-009",
+    "herbName": "Tulsi Leaves",
+    "colorProfile": "Bright Green",
+    "freshness": "High",
+    "dateTaken": "2025-09-10",
+    "usedIn": "Respiratory care, Herbal teas",
+    "originRegion": "Janakpuri, Delhi",
+    "batchNo": "B-TUL-0925-01",
+    "supplierId": "SUP-1173",
+    "processingMethod": "Shade dried, whole leaf",
+    "storageConditions": "Cool & dry, < 22°C",
+    "moistureContent": "13%",
+    "authenticityScore": 91.5,
+    "qualityMetrics": {
+      "purity": 93.2,
+      "potency": 90.5,
+      "safety": 94.1
+    },
+    "aiConfidence": {
+      "overall": 97.3,
+      "patternMatching": 97.9,
+      "chemicalProfile": 96.4,
+      "referenceSimilarity": 97.0
+    },
+    "adulteration": {
+      "heavyMetals": "Clear",
+      "pesticides": "Clear",
+      "foreignMatter": "Clear"
+    },
+    "tasteProfile": {
+      "Sweet": 42,
+      "Bitter": 32,
+      "Pungent": 74,
+      "Sour": 14,
+      "Salty": 11,
+      "Astringent": 49
+    },
+    "tasteReference": {
+      "Sweet": 40,
+      "Bitter": 30,
+      "Pungent": 72,
+      "Sour": 15,
+      "Salty": 10,
+      "Astringent": 50
+    },
+    "phytochemicalProfile": {
+      "Alkaloids": {
+        "detected": 10.2,
+        "reference": 10.0,
+        "units": "mg/g"
+      },
+      "Flavonoids": {
+        "detected": 9.6,
+        "reference": 9.5,
+        "units": "mg/g"
+      },
+      "Saponins": {
+        "detected": 13.2,
+        "reference": 13.0,
+        "units": "mg/g"
+      },
+      "Tannins": {
+        "detected": 5.1,
+        "reference": 5.2,
+        "units": "mg/g"
+      },
+      "Glycosides": {
+        "detected": 4.2,
+        "reference": 4.3,
+        "units": "mg/g"
+      }
+    }
+  },
+  {
+    "sampleNo": "AYU-010",
+    "herbName": "Tulsi Leaves",
+    "colorProfile": "Greenish-Brown",
+    "freshness": "Moderate",
+    "dateTaken": "2025-09-10",
+    "usedIn": "Herbal teas",
+    "originRegion": "Janakpuri, Delhi",
+    "batchNo": "B-TUL-0925-02",
+    "supplierId": "SUP-2251",
+    "processingMethod": "Sun dried, powdered",
+    "storageConditions": "Cool & dry, < 25°C",
+    "moistureContent": "16%",
+    "authenticityScore": 78.4,
+    "qualityMetrics": {
+      "purity": 80.2,
+      "potency": 76.5,
+      "safety": 82.1
+    },
+    "aiConfidence": {
+      "overall": 88.6,
+      "patternMatching": 90.1,
+      "chemicalProfile": 86.9,
+      "referenceSimilarity": 87.8
+    },
+    "adulteration": {
+      "heavyMetals": "Clear",
+      "pesticides": "Trace",
+      "foreignMatter": "Starch powder detected"
+    },
+    "tasteProfile": {
+      "Sweet": 60,
+      "Bitter": 22,
+      "Pungent": 50,
+      "Sour": 18,
+      "Salty": 12,
+      "Astringent": 40
+    },
+    "tasteReference": {
+      "Sweet": 38,
+      "Bitter": 28,
+      "Pungent": 72,
+      "Sour": 18,
+      "Salty": 12,
+      "Astringent": 52
+    },
+    "phytochemicalProfile": {
+      "Alkaloids": {
+        "detected": 7.5,
+        "reference": 10.0,
+        "units": "mg/g"
+      },
+      "Flavonoids": {
+        "detected": 6.2,
+        "reference": 9.5,
+        "units": "mg/g"
+      },
+      "Saponins": {
+        "detected": 10.0,
+        "reference": 13.0,
+        "units": "mg/g"
+      },
+      "Tannins": {
+        "detected": 3.2,
+        "reference": 5.2,
+        "units": "mg/g"
+      },
+      "Glycosides": {
+        "detected": 2.8,
+        "reference": 4.3,
+        "units": "mg/g"
+      }
+    }
+  },
+  {
+    "sampleNo": "AYU-011",
+    "herbName": "Honey",
+    "colorProfile": "Golden Amber",
+    "freshness": "High",
+    "dateTaken": "2025-09-10",
+    "usedIn": "Natural sweetener, Medicinal use",
+    "originRegion": "Janakpuri, Delhi",
+    "batchNo": "B-HON-0925-01",
+    "supplierId": "SUP-3320",
+    "processingMethod": "Raw, filtered",
+    "storageConditions": "Cool & dry, < 25°C",
+    "moistureContent": "17%",
+    "authenticityScore": 95.6,
+    "qualityMetrics": {
+      "purity": 97.2,
+      "potency": 93.8,
+      "safety": 96.1
+    },
+    "aiConfidence": {
+      "overall": 98.0,
+      "patternMatching": 99.0,
+      "chemicalProfile": 97.1,
+      "referenceSimilarity": 98.2
+    },
+    "adulteration": {
+      "heavyMetals": "Clear",
+      "pesticides": "Clear",
+      "foreignMatter": "Clear"
+    },
+    "tasteProfile": {
+      "Sweet": 90,
+      "Bitter": 10,
+      "Pungent": 15,
+      "Sour": 12,
+      "Salty": 8,
+      "Astringent": 20
+    },
+    "tasteReference": {
+      "Sweet": 88,
+      "Bitter": 12,
+      "Pungent": 18,
+      "Sour": 12,
+      "Salty": 10,
+      "Astringent": 18
+    },
+    "phytochemicalProfile": {
+      "Alkaloids": {
+        "detected": 0.9,
+        "reference": 1.0,
+        "units": "mg/g"
+      },
+      "Flavonoids": {
+        "detected": 2.2,
+        "reference": 2.3,
+        "units": "mg/g"
+      },
+      "Saponins": {
+        "detected": 0.4,
+        "reference": 0.5,
+        "units": "mg/g"
+      },
+      "Tannins": {
+        "detected": 0.6,
+        "reference": 0.7,
+        "units": "mg/g"
+      },
+      "Glycosides": {
+        "detected": 0.3,
+        "reference": 0.4,
+        "units": "mg/g"
+      }
+    }
+  },
+  {
+    "sampleNo": "AYU-012",
+    "herbName": "Honey",
+    "colorProfile": "Dark Amber",
+    "freshness": "Moderate",
+    "dateTaken": "2025-09-10",
+    "usedIn": "Cooking, Household remedies",
+    "originRegion": "Janakpuri, Delhi",
+    "batchNo": "B-HON-0925-02",
+    "supplierId": "SUP-1987",
+    "processingMethod": "Commercial, bottled",
+    "storageConditions": "Cool & dry, < 25°C",
+    "moistureContent": "20%",
+    "authenticityScore": 72.8,
+    "qualityMetrics": {
+      "purity": 74.5,
+      "potency": 70.2,
+      "safety": 76.1
+    },
+    "aiConfidence": {
+      "overall": 82.4,
+      "patternMatching": 84.1,
+      "chemicalProfile": 81.0,
+      "referenceSimilarity": 82.2
+    },
+    "adulteration": {
+      "heavyMetals": "Clear",
+      "pesticides": "Clear",
+      "foreignMatter": "Sugar syrup detected"
+    },
+    "tasteProfile": {
+      "Sweet": 98,
+      "Bitter": 5,
+      "Pungent": 8,
+      "Sour": 8,
+      "Salty": 5,
+      "Astringent": 10
+    },
+    "tasteReference": {
+      "Sweet": 88,
+      "Bitter": 12,
+      "Pungent": 18,
+      "Sour": 12,
+      "Salty": 10,
+      "Astringent": 18
+    },
+    "phytochemicalProfile": {
+      "Alkaloids": {
+        "detected": 0.2,
+        "reference": 1.0,
+        "units": "mg/g"
+      },
+      "Flavonoids": {
+        "detected": 0.6,
+        "reference": 2.3,
+        "units": "mg/g"
+      },
+      "Saponins": {
+        "detected": 0.1,
+        "reference": 0.5,
+        "units": "mg/g"
+      },
+      "Tannins": {
+        "detected": 0.1,
+        "reference": 0.7,
+        "units": "mg/g"
+      },
+      "Glycosides": {
+        "detected": 0.0,
+        "reference": 0.4,
+        "units": "mg/g"
+      }
+    }
+  },
+  {
+    "sampleNo": "AYU-013",
+    "herbName": "Honey",
+    "colorProfile": "Light Golden",
+    "freshness": "High",
+    "dateTaken": "2025-09-10",
+    "usedIn": "Medicinal syrups",
+    "originRegion": "Janakpuri, Delhi",
+    "batchNo": "B-HON-0925-03",
+    "supplierId": "SUP-5542",
+    "processingMethod": "Wild-collected, filtered",
+    "storageConditions": "Cool & dry, < 23°C",
+    "moistureContent": "18%",
+    "authenticityScore": 93.2,
+    "qualityMetrics": {
+      "purity": 94.8,
+      "potency": 91.7,
+      "safety": 95.0
+    },
+    "aiConfidence": {
+      "overall": 97.1,
+      "patternMatching": 98.0,
+      "chemicalProfile": 96.0,
+      "referenceSimilarity": 97.5
+    },
+    "adulteration": {
+      "heavyMetals": "Clear",
+      "pesticides": "Trace",
+      "foreignMatter": "Clear"
+    },
+    "tasteProfile": {
+      "Sweet": 88,
+      "Bitter": 12,
+      "Pungent": 20,
+      "Sour": 14,
+      "Salty": 9,
+      "Astringent": 22
+    },
+    "tasteReference": {
+      "Sweet": 88,
+      "Bitter": 12,
+      "Pungent": 18,
+      "Sour": 12,
+      "Salty": 10,
+      "Astringent": 18
+    },
+    "phytochemicalProfile": {
+      "Alkaloids": {
+        "detected": 1.0,
+        "reference": 1.0,
+        "units": "mg/g"
+      },
+      "Flavonoids": {
+        "detected": 2.3,
+        "reference": 2.3,
+        "units": "mg/g"
+      },
+      "Saponins": {
+        "detected": 0.5,
+        "reference": 0.5,
+        "units": "mg/g"
+      },
+      "Tannins": {
+        "detected": 0.7,
+        "reference": 0.7,
+        "units": "mg/g"
+      },
+      "Glycosides": {
+        "detected": 0.4,
+        "reference": 0.4,
+        "units": "mg/g"
+      }
+    }
+  },
+  {
+    "sampleNo": "AYU-014",
+    "herbName": "Tulsi Leaves",
+    "colorProfile": "Faded Green",
+    "freshness": "Low",
+    "dateTaken": "2025-09-10",
+    "usedIn": "Powdered formulations",
+    "originRegion": "Janakpuri, Delhi",
+    "batchNo": "B-TUL-0925-03",
+    "supplierId": "SUP-4419",
+    "processingMethod": "Sun dried, powdered",
+    "storageConditions": "Warm & humid",
+    "moistureContent": "18%",
+    "authenticityScore": 70.1,
+    "qualityMetrics": {
+      "purity": 72.0,
+      "potency": 68.4,
+      "safety": 74.2
+    },
+    "aiConfidence": {
+      "overall": 80.3,
+      "patternMatching": 81.5,
+      "chemicalProfile": 79.0,
+      "referenceSimilarity": 80.7
+    },
+    "adulteration": {
+      "heavyMetals": "Clear",
+      "pesticides": "Trace",
+      "foreignMatter": "Chalk powder detected"
+    },
+    "tasteProfile": {
+      "Sweet": 55,
+      "Bitter": 20,
+      "Pungent": 45,
+      "Sour": 10,
+      "Salty": 15,
+      "Astringent": 38
+    },
+    "tasteReference": {
+      "Sweet": 38,
+      "Bitter": 28,
+      "Pungent": 72,
+      "Sour": 18,
+      "Salty": 12,
+      "Astringent": 52
+    },
+    "phytochemicalProfile": {
+      "Alkaloids": {
+        "detected": 6.0,
+        "reference": 10.0,
+        "units": "mg/g"
+      },
+      "Flavonoids": {
+        "detected": 5.2,
+        "reference": 9.5,
+        "units": "mg/g"
+      },
+      "Saponins": {
+        "detected": 7.8,
+        "reference": 13.0,
+        "units": "mg/g"
+      },
+      "Tannins": {
+        "detected": 2.9,
+        "reference": 5.2,
+        "units": "mg/g"
+      },
+      "Glycosides": {
+        "detected": 2.0,
+        "reference": 4.3,
+        "units": "mg/g"
+      }
+    }
+  }
+]
